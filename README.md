@@ -74,4 +74,4 @@
     * [Google JavaScript Style Guide](http://link.zhihu.com/?target=https%3A//google.github.io/styleguide/javascriptguide.xml)
 * Responsive Design
     * [响应式设计指南](http://link.zhihu.com/?target=http%3A//geekplux.com/grid/)
-    * []()
+    * [自适应网页设计——阮一峰](http://link.zhihu.com/?target=http%3A//www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
