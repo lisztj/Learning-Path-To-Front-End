@@ -138,3 +138,47 @@
 ![Front](https://github.com/lisztj/Learning-Path-To-Front-End/blob/master/tupu.jpg?raw=true)
 * [前端开发技能图谱](https://phodal.github.io/skillwheel/)
 * [Frontend Knowledge Structure](http://link.zhihu.com/?target=http%3A//html5ify.com/fks/)
+
+* 在线资源
+    * [大前端导航](http://link.zhihu.com/?target=http%3A//www.daqianduan.com/nav)
+    * [Frontend Stuff](http://link.zhihu.com/?target=https%3A//github.com/moklick/frontend-stuff)
+    * [Frontend directory](http://link.zhihu.com/?target=https%3A//frontend.directory/)
+    * [Frontend Interview Questions](http://link.zhihu.com/?target=https%3A//github.com/h5bp/Front-end-Developer-Interview-Questions)
+* 在线教程
+    * [菜鸟教程](http://link.zhihu.com/?target=http%3A//www.runoob.com/)
+    * [极客学院Wiki](http://link.zhihu.com/?target=http%3A//wiki.jikexueyuan.com/)
+    * [Mozilla开发者网络](http://link.zhihu.com/?target=https%3A//developer.mozilla.org/zh-CN/docs/Learn)
+    * [front-end-web-development on Treehouse](http://link.zhihu.com/?target=https%3A//teamtreehouse.com/tracks/front-end-web-development)
+    * [Learn to Code Advanced HTML/CSS](http://link.zhihu.com/?target=http%3A//learn.shayhowe.com/advanced-html-css/)
+* 在线书籍
+    * [Front-end Developer HandBook](http://link.zhihu.com/?target=https%3A//www.gitbook.com/book/dwqs/frontenddevhandbook/)
+    * [Front-end Database](http://link.zhihu.com/?target=https%3A//leohxj.gitbooks.io/front-end-database/)
+    * [Frontend Notebook](http://link.zhihu.com/?target=https%3A//li-xinyang.gitbooks.io/frontend-notebook/)
+* 推荐书目阅读资源
+    * 基础
+        * [深入浅出HTML与CSS、XHTML](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/1799652/)
+        * [HTML & CSS设计与构建网站](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/21338365/)
+        * [Pro Git中文版](http://link.zhihu.com/?target=http%3A//iissnan.com/progit/)
+        * [鸟哥的linux私房菜](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/4889838/)
+    * 中级
+        * [Head First HTML5 Programming](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/19894872/)
+        * [JavaScript权威指南](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/10546125/)
+        * [JavaScript语言精粹](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/3590768/)
+        * [JavaScript & jQuery交互式Web前端开发](http://link.zhihu.com/?target=https%3A//www.amazon.cn/JavaScript-jQuery%25E4%25BA%25A4%25E4%25BA%2592%25E5%25BC%258FWeb%25E5%2589%258D%25E7%25AB%25AF%25E5%25BC%2580%25E5%258F%2591-%25E8%25BE%25BE%25E5%2585%258B%25E7%2589%25B9/dp/B010L41T5O/)
+        * [深入浅出Ajax](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/3136781/)
+    * 高级
+        * [JavaScript高级程序设计](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/10546125/)
+        * [HTML5高级程序设计](http://link.zhihu.com/?target=http%3A//book.douban.com/subject/5402708/)
+        * [CSS权威指南](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/2308234/)
+        * [深入浅出Node.js](http://link.zhihu.com/?target=http%3A//book.douban.com/subject/25768396/)
+        * [Javascript设计模式详解](http://www.cnblogs.com/tugenhua0707/p/5198407.html)
+    * 大神篇
+        * [浅谈前端集成解决方案](https://github.com/fouber/blog/issues/1)
+        * [前端工程与性能优化](https://github.com/fouber/blog/issues/3)
+        * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
+        * [前端开发体与模块化框架](https://github.com/fouber/blog/issues/4)
+        * [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
+        * [如何进行前端自动化测试？](https://github.com/fouber/blog/issues/7)
+        * [md5戳计算过程](https://github.com/fouber/blog/issues/5)
+
+ok！以上大概的前端工程师的学习路径，不要奢望学完，数理化都学不完，一门知识是学不完的，加油啊！程序猿们！
