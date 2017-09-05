@@ -6,12 +6,9 @@
 ## 什么是前端开发？
 > 简单点概括为前端工程师就是运用HTML/CSS/JavaScript等Web技术，在工作中配合设计师实现用户界面，和后端工程师进行数据对接，完成Web应用开发的职位。
 
-![Image](https://github.com/lisztj/Learning-Path-To-Front-End/blob/master/front.jpg?raw=true)
-![Front](https://github.com/lisztj/Learning-Path-To-Front-End/blob/master/tupu.jpg?raw=true)
-
 * [阅读更多有关前端工程师](http://link.zhihu.com/?target=https%3A//www.h5jun.com/post/to-be-a-good-frontend-engineer)
 * [前端技能路线详解](https://zhuanlan.zhihu.com/p/21808803)
-* [前端开发技能图谱](https://phodal.github.io/skillwheel/)
+
 
 ## 开发工具
 ### 设计软件
@@ -107,4 +104,37 @@
 * 模块/包管理
     * [npm](http://link.zhihu.com/?target=https%3A//www.npmjs.com/)
         * [npm使用介绍](http://link.zhihu.com/?target=http%3A//www.runoob.com/nodejs/nodejs-npm.html)
-        
+        * [快速搭建 Node.js 开发环境以及加速 npm](http://link.zhihu.com/?target=https%3A//cnodejs.org/topic/5338c5db7cbade005b023c98)
+    * [Sea.js](http://link.zhihu.com/?target=http%3A//seajs.org/docs/)
+        * [5分钟上手Sea.js](http://link.zhihu.com/?target=http%3A//seajs.org/docs/%23quick-start)
+    * [RequireJS](http://link.zhihu.com/?target=http%3A//www.requirejs.cn/)
+    * [ES6模块](http://link.zhihu.com/?target=http%3A//www.infoq.com/cn/articles/es6-in-depth-modules)
+* 预处理器
+    * [Haml](http://link.zhihu.com/?target=http%3A//haml.info/)
+        * [Tutorial](http://link.zhihu.com/?target=http%3A//haml.info/tutorial.html)
+        * [HTML代码简写法：Emmet和Haml](http://link.zhihu.com/?target=http%3A//www.ruanyifeng.com/blog/2013/06/emmet_and_haml.html)
+    * [Sass](http://link.zhihu.com/?target=http%3A//www.sasschina.com/)
+        * [Sass入门](http://link.zhihu.com/?target=http%3A//www.w3cplus.com/sassguide/)
+    * [Less](http://lesscss.cn/)
+    * [TypeScript](http://link.zhihu.com/?target=https%3A//www.typescriptlang.org/)
+        * [TypeScript Handbook（中文版）](http://link.zhihu.com/?target=https%3A//www.gitbook.com/book/zhongsp/typescript-handbook/details)
+* 框架
+    * [Angular学习教程](http://link.zhihu.com/?target=http%3A//www.runoob.com/angularjs/angularjs-tutorial.html)
+    * [Vue](http://link.zhihu.com/?target=https%3A//vuejs.org.cn/)
+        * [vue.js教程](http://link.zhihu.com/?target=http%3A//wiki.jikexueyuan.com/project/vue-js/)
+    * [React](http://link.zhihu.com/?target=http%3A//reactjs.cn/)
+        * [入门实例教程](http://link.zhihu.com/?target=http%3A//www.ruanyifeng.com/blog/2015/03/react.html)
+* 服务器端
+    * [Nodejs](http://link.zhihu.com/?target=https%3A//nodejs.org/zh-cn/)
+        * [Node入门](http://link.zhihu.com/?target=http%3A//www.nodebeginner.org/index-zh-cn.html)
+        * [7天学会NodeJS](http://link.zhihu.com/?target=https%3A//nqdeng.github.io/7-days-nodejs/)
+    * [MongoDB](http://link.zhihu.com/?target=https%3A//www.mongodb.com/)
+        * [NodeJS与MongoDB交互](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/zhongweiv/p/node_mongodb.html)
+* 部署
+    * [docker](http://blog.csdn.net/u012562943/article/details/50463400)
+
+* 技能图谱
+![Image](https://github.com/lisztj/Learning-Path-To-Front-End/blob/master/front.jpg?raw=true)
+![Front](https://github.com/lisztj/Learning-Path-To-Front-End/blob/master/tupu.jpg?raw=true)
+* [前端开发技能图谱](https://phodal.github.io/skillwheel/)
+* [Frontend Knowledge Structure](http://link.zhihu.com/?target=http%3A//html5ify.com/fks/)
