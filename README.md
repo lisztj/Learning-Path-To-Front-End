@@ -6,6 +6,9 @@
 ## 什么是前端开发？
 > 简单点概括为前端工程师就是运用HTML/CSS/JavaScript等Web技术，在工作中配合设计师实现用户界面，和后端工程师进行数据对接，完成Web应用开发的职位。
 
+![Image](https://github.com/lisztj/Learning-Path-To-Front-End/blob/master/front.jpg?raw=true)
+![Front](https://github.com/lisztj/Learning-Path-To-Front-End/blob/master/tupu.jpg?raw=true)
+
 * [阅读更多有关前端工程师](http://link.zhihu.com/?target=https%3A//www.h5jun.com/post/to-be-a-good-frontend-engineer)
 * [前端技能路线详解](https://zhuanlan.zhihu.com/p/21808803)
 * [前端开发技能图谱](https://phodal.github.io/skillwheel/)
@@ -36,7 +39,8 @@
     * [鸟哥的linux私房菜——基础篇](http://link.zhihu.com/?target=http%3A//linux.vbird.org/linux_basic/)
 * Git 写代码一定会用到的版本控制软件，入门很快就能学会
     * [猴子都能懂的Git入门](http://link.zhihu.com/?target=http%3A//backlogtool.com/git-guide/cn/)
-* 目前公司内考虑翻墙等团队协作原因采用的是码云[GitOsc](http://git.mydoc.io/)
+* 目前公司内考虑翻墙等团队协作原因采用的是码云
+    * [GitOsc码云](http://git.mydoc.io/)
 
 ### 调试代码
 > 预览和调试必不可少，编写前端代码的大部分时间都是在编辑器和浏览器之间切来切去。
@@ -70,3 +74,4 @@
     * [Google JavaScript Style Guide](http://link.zhihu.com/?target=https%3A//google.github.io/styleguide/javascriptguide.xml)
 * Responsive Design
     * [响应式设计指南](http://link.zhihu.com/?target=http%3A//geekplux.com/grid/)
+    * []()
