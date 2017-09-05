@@ -15,13 +15,13 @@
 > 前端工程师最首要的任务就是把设计师的设计图切好并翻译成代码，所以我们要学习一些设计软件的基础操作和切图方法。
 
 * Photoshop 运用最广泛的设计软件，大部分人都在用它，很有必要学习一下
-* [前端工程师必备的PS技能——切图篇](http://link.zhihu.com/?target=http%3A//www.imooc.com/learn/506)
+    * [前端工程师必备的PS技能——切图篇](http://link.zhihu.com/?target=http%3A//www.imooc.com/learn/506)
 
 * Sketch 轻量且功能强大，切图迅速高效，为UI设计而生的Mac App
-* [Sketch切图教程](http://link.zhihu.com/?target=http%3A//www.sketchs.cn/tutorials/detail/257.html)
+    * [Sketch切图教程](http://link.zhihu.com/?target=http%3A//www.sketchs.cn/tutorials/detail/257.html)
 
 ### 编辑器
 > 工欲善其事，必先利其器。可以用的编辑器和IDE有很多，在这里我只推荐最棒的三个。
-* [VSCode](https://code.visualstudio.com/) 速度较快，对超大文件读写速度飞快(打开10M代码不到1s，Subline原生会卡近6s)，插件数量相对少，有一些增强功能比如调试器，终端，原生支持语言语法高亮较少(C# JS TypeScript是第一位)，内置JS/TS调试器…可以基于不同项目(文件夹)设置偏好，写C#和JS/TS专用
+* [VSCode](https://code.visualstudio.com/) :+1:速度较快，对超大文件读写速度飞快(打开10M代码不到1s，Subline原生会卡近6s)，插件数量相对少，有一些增强功能比如调试器，终端，原生支持语言语法高亮较少(C# JS TypeScript是第一位)，内置JS/TS调试器…可以基于不同项目(文件夹)设置偏好，写C#和JS/TS专用
 
 
