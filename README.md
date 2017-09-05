@@ -77,3 +77,34 @@
     * [自适应网页设计——阮一峰](http://link.zhihu.com/?target=http%3A//www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
     * [如何开始响应式web设计？](http://link.zhihu.com/?target=http%3A//beforweb.com/node/6)
 * Web Animation
+    * [CSS动画](http://link.zhihu.com/?target=http%3A//www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html)
+    * [Canvas动画教程](http://link.zhihu.com/?target=https%3A//developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial)
+    * [Learn to Create Animations in JavaScript](http://link.zhihu.com/?target=https%3A//www.kirupa.com/javascript_animations/index.htm)
+* Bootstrap
+    * [Bootstrap菜鸟教程](http://link.zhihu.com/?target=http%3A//www.runoob.com/bootstrap/bootstrap-tutorial.html)
+    * [慕课网玩转Bootstrap](http://link.zhihu.com/?target=http%3A//www.imooc.com/view/141)
+* jQuery
+    * [jQuery菜鸟教程](http://link.zhihu.com/?target=http%3A//www.runoob.com/jquery/jquery-tutorial.html)
+    * [慕课网jQuery基础](http://link.zhihu.com/?target=http%3A//www.imooc.com/course/list%3Fc%3Djquery%26is_easy%3D1)
+* Ajax
+    * [jQuery Ajax快速入门](http://link.zhihu.com/?target=http%3A//blog.qiubio.com%3A8080/archives/1467)
+    * [jQuery Ajax全解析](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/qleelulu/archive/2008/04/21/1163021.html)
+## 高级知识
+* [w3c标准](http://link.zhihu.com/?target=https%3A//www.w3.org/standards/)
+    * [Web Platform Docs](http://link.zhihu.com/?target=https%3A//docs.webplatform.org/wiki/Main_Page)
+* ECMA6
+    * [阮一峰ECMAScript6入门](http://link.zhihu.com/?target=http%3A//es6.ruanyifeng.com/)
+* 测试
+    * [FEX前端自动化测试探索](http://link.zhihu.com/?target=http%3A//fex.baidu.com/blog/2015/07/front-end-test/)
+    * [Macaca自动化测试之PC端测试](http://www.cnblogs.com/fnng/p/5873878.html)
+    * [测试框架Mocha实例教程](http://link.zhihu.com/?target=http%3A//www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
+    * [Karma和Jasmine自动化单元测试](http://link.zhihu.com/?target=http%3A//blog.fens.me/nodejs-karma-jasmine/)
+* 自动化构建
+    * [流式自动化构建工具Gulp](http://link.zhihu.com/?target=http%3A//www.gulpjs.com.cn/)
+    * [前端工程构建工具fis](http://link.zhihu.com/?target=http%3A//fex-team.github.io/fis3/)
+    * [Web项目脚手架生成工具Yeoman](http://link.zhihu.com/?target=http%3A//yeoman.io/)
+        * [用Yeoman和AngularJS做Web应用](http://link.zhihu.com/?target=http%3A//blog.jobbole.com/65399/)
+* 模块/包管理
+    * [npm](http://link.zhihu.com/?target=https%3A//www.npmjs.com/)
+        * [npm使用介绍](http://link.zhihu.com/?target=http%3A//www.runoob.com/nodejs/nodejs-npm.html)
+        
