@@ -24,10 +24,10 @@
 > 工欲善其事，必先利其器。可以用的编辑器和IDE有很多，在这里我只推荐最棒的三个(大力推荐vscode)。
 * :+1:[VSCode](https://code.visualstudio.com/) 速度较快，对超大文件读写速度飞快(打开10M代码不到1s，Sublime原生会卡近6s)，插件数量相对少，有一些增强功能比如调试器，终端，原生支持语言语法高亮较少(C# JS TypeScript是第一位)，内置JS/TS调试器…可以基于不同项目(文件夹)设置偏好，写C#和JS/TS专用
 
-* [Sublime text](http://link.zhihu.com/?target=https%3A//www.sublimetext.com/)没有接触vscode之前一直在用的编辑器，搭配插件各种好用
+* [Sublime text](http://link.zhihu.com/?target=https%3A//www.sublimetext.com/) 没有接触vscode之前一直在用的编辑器，搭配插件各种好用
     * [配置和使用方法](http://link.zhihu.com/?target=https%3A//www.zybuluo.com/king/note/47271)
 
-* [Webstorm](http://link.zhihu.com/?target=https%3A//www.jetbrains.com/webstorm/)功能强大，学生可以免费用的前端开发IDE(收费的。。。)
+* [Webstorm](http://link.zhihu.com/?target=https%3A//www.jetbrains.com/webstorm/) 功能强大，学生可以免费用的前端开发IDE(收费的。。。)
 
 ### 代码管理
 > 不光要学会写代码，也要学会管理你的代码。在工作中你可能会遇到需要自己部署代码的情况；不停地修改迭代重构，当然也需要你掌握版本控制软件。
