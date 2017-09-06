@@ -182,4 +182,4 @@
         * [如何进行前端自动化测试？](https://github.com/fouber/blog/issues/7)
         * [md5戳计算过程](https://github.com/fouber/blog/issues/5)
 
-ok！以上大概的前端工程师的学习路径，不要奢望学完，数理化都学不完，一门知识是学不完的，加油啊！程序猿们！学无止境！
+:scream: ok！以上大概的前端工程师的学习路径，不要奢望学完，数理化都学不完，一门知识是学不完的，加油啊！程序猿们！学无止境！:bowtie::fire::computer::floppy_disk:
