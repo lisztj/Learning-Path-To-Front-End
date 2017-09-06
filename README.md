@@ -135,7 +135,8 @@
         * [NodeJS与MongoDB交互](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/zhongweiv/p/node_mongodb.html)
 * 部署
     * [docker](http://blog.csdn.net/u012562943/article/details/50463400)
-
+* 日志
+    * [Sentry--错误日志收集框架](http://www.cnblogs.com/qlong8807/p/6047207.html)
 * 技能图谱
 ![Image](https://github.com/lisztj/Learning-Path-To-Front-End/blob/master/front.jpg?raw=true)
 ![Front](https://github.com/lisztj/Learning-Path-To-Front-End/blob/master/tupu.jpg?raw=true)
@@ -183,7 +184,7 @@
         * [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
         * [如何进行前端自动化测试？](https://github.com/fouber/blog/issues/7)
         * [md5戳计算过程](https://github.com/fouber/blog/issues/5)
-    
+
     未完待续。。。
 
 :scream: ok！以上大概的前端工程师的学习路径，不要奢望学完，数理化都学不完，一门知识是学不完的，加油啊！程序猿们！学无止境！:bowtie::fire::computer::floppy_disk:
