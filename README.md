@@ -98,6 +98,7 @@
     * [Karma和Jasmine自动化单元测试](http://link.zhihu.com/?target=http%3A//blog.fens.me/nodejs-karma-jasmine/)
 * 自动化构建
     * [流式自动化构建工具Gulp](http://link.zhihu.com/?target=http%3A//www.gulpjs.com.cn/)
+    * [使用grunt打包前端代码](http://www.cnblogs.com/yexiaochai/p/3603389.html)
     * [前端工程构建工具fis](http://link.zhihu.com/?target=http%3A//fex-team.github.io/fis3/)
     * [Web项目脚手架生成工具Yeoman](http://link.zhihu.com/?target=http%3A//yeoman.io/)
         * [用Yeoman和AngularJS做Web应用](http://link.zhihu.com/?target=http%3A//blog.jobbole.com/65399/)
@@ -181,4 +182,4 @@
         * [如何进行前端自动化测试？](https://github.com/fouber/blog/issues/7)
         * [md5戳计算过程](https://github.com/fouber/blog/issues/5)
 
-ok！以上大概的前端工程师的学习路径，不要奢望学完，数理化都学不完，一门知识是学不完的，加油啊！程序猿们！
+ok！以上大概的前端工程师的学习路径，不要奢望学完，数理化都学不完，一门知识是学不完的，加油啊！程序猿们！学无止境！
