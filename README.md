@@ -125,6 +125,7 @@
         * [vue.js教程](http://link.zhihu.com/?target=http%3A//wiki.jikexueyuan.com/project/vue-js/)
     * [React](http://link.zhihu.com/?target=http%3A//reactjs.cn/)
         * [入门实例教程](http://link.zhihu.com/?target=http%3A//www.ruanyifeng.com/blog/2015/03/react.html)
+        * [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
 * JavaScript 工具库
     * [函数式编程](http://www.bootcss.com/p/underscore/)
 * 服务器端
