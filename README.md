@@ -133,6 +133,9 @@
         * [7天学会NodeJS](http://link.zhihu.com/?target=https%3A//nqdeng.github.io/7-days-nodejs/)
     * [MongoDB](http://link.zhihu.com/?target=https%3A//www.mongodb.com/)
         * [NodeJS与MongoDB交互](http://link.zhihu.com/?target=http%3A//www.cnblogs.com/zhongweiv/p/node_mongodb.html)
+* 数据库
+    * [redis](http://www.runoob.com/redis/redis-tutorial.html)
+    * [DocumentDB](https://docs.microsoft.com/zh-cn/azure/cosmos-db/documentdb-get-started)
 * 部署
     * [docker](http://blog.csdn.net/u012562943/article/details/50463400)
 * 日志
